@@ -4,9 +4,9 @@ body {
   color: #000000;
 }
 .kartu-pp {
-  width:500px;
+  width:300px;
   margin:100px auto; /jarak atas/bawah,auto menengah kiri/kanan/
-  padding:100px;
+  padding:50px;
   background-color:  #B3BFFF ;
   border-radius:15px; /sudut melengkung/
   box-shadow:0 4px 8px rgba(0,0,0,0.1);/efek bayangan/
