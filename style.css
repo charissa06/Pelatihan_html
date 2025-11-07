@@ -6,9 +6,9 @@ body {
 .kartu-pp {
   width:300px;
   margin:100px auto; /jarak atas/bawah,auto menengah kiri/kanan/
-  padding:50px;
+  padding:20px;
   background-color:  #B3BFFF ;
-  border-radius:15px; /sudut melengkung/
+  border-radius:50px; /sudut melengkung/
   box-shadow:0 4px 8px rgba(0,0,0,0.1);/efek bayangan/
   text-align:center;/all text ke tengah/
 }
