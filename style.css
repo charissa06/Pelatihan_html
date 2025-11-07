@@ -5,9 +5,9 @@ body {
 }
 .kartu-pp {
   width:300px;
-  margin:50px auto; /jarak atas/bawah,auto menengah kiri/kanan/
+  margin:100px auto; /jarak atas/bawah,auto menengah kiri/kanan/
   padding:20px;
-  background-color: blue;
+  background-color:  #B3BFFF ;
   border-radius:15px; /sudut melengkung/
   box-shadow:0 4px 8px rgba(0,0,0,0.1);/efek bayangan/
   text-align:center;/all text ke tengah/
