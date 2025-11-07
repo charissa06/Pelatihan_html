@@ -5,15 +5,15 @@ body {
 }
 .kartu-pp {
   width:300px;
-  margin:100px auto; /jarak atas/bawah,auto menengah kiri/kanan/
+  margin:50px auto; /jarak atas/bawah,auto menengah kiri/kanan/
   padding:20px;
   background-color:  #B3BFFF ;
-  border-radius:50px; /sudut melengkung/
+  border-radius:15px; /sudut melengkung/
   box-shadow:0 4px 8px rgba(0,0,0,0.1);/efek bayangan/
   text-align:center;/all text ke tengah/
 }
 .kartu-pp img{
-  width:150px;
-  height:150px;
+  width:200px;
+  height:200px;
   border-radius:50%;/gambar kotak sempurna menjadi lingkaran/
 }
