@@ -1,13 +1,13 @@
 body {
   background-color: #F2BED1;
   font-family:Arial, sans-serif;
-  color: #191970;
+  color: black;
 }
 .kartu-pp {
   width:300px;
   margin:50px auto; /jarak atas/bawah,auto menengah kiri/kanan/
   padding:20px;
-  background-color:bluesoft;
+  background-color: bluepastel;
   border-radius:15px; /sudut melengkung/
   box-shadow:0 4px 8px rgba(0,0,0,0.1);/efek bayangan/
   text-align:center;/all text ke tengah/
